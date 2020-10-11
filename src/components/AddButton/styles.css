@@ -1,0 +1,14 @@
+#addBtn {
+	background-color:red;
+	color:white;
+	font-size:30px;
+	border-radius:50%;
+	border:0;
+	position:fixed;
+	right:0;
+	bottom:0;
+	width:60px;
+	height:60px;
+	margin:0 10px 10px;
+	outline:0;
+}

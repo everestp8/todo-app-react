@@ -1,0 +1,25 @@
+#footer {
+	background-color:#111011;
+	min-height:30vh;
+	margin-top:50%;
+	display:flex;
+	flex-direction:column;
+}
+
+#footer small {
+	margin:0 auto;
+	margin-top:2.5%;
+	margin-bottom:2.5%;
+}
+
+.symbol {
+	font-size:2rem;
+	text-decoration:none;
+	color:inherit;
+	margin-top:5%;
+}
+
+.icon-credits {
+	font-size:0.8rem;
+	margin:10px auto;
+}

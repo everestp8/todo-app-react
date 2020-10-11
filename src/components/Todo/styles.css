@@ -1,0 +1,12 @@
+.list li {
+	margin-top:2.5%;
+	margin-bottom:2.5%;
+	margin-left:10%;
+	font-size:1.4rem;
+	word-wrap:break-word;
+}
+
+.checked {
+	color:#888;
+	text-decoration:line-through;
+}
